@@ -1,17 +1,6 @@
 # stockSimulator
 stockSimulator allows users to trade, sell, and adjust stocks whilst managing and viewing their own stock portfolio. stockSimulator will simulate a stock trading platform whilst implementing multi-user login and an administration account.
 
-# Team Members & Roles
-Manila Aryal: Activity Log & Password Hashing Lead
-
-Grace Frizzell: Database & Transaction Lead
-
-Tamsyn Evezard: Authentication & API Lead
-
-Ngoc Bui: Visualization & CAPTCHA Lead
-
-Berkan Guven: Facial Recognition Lead
-
 ## Accomplished Work
 - Username and password authentication for users and admin that maintains session (functionality included in the register, login, and logout pages)​
 
